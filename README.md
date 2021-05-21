@@ -1,2 +1,2 @@
-# Mi-TPO-Final-CODO-a-CODO
-Mi primera Pagina WEB (solo HTML y CSS)
+# TPO-Miguel-Royett
+ Mi Trabajo Práctico Obligatorio CODO a CODO
